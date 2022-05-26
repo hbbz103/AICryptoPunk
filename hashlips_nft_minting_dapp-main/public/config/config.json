@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5231328eB6458541Cc47909C71E9a84f150c8e9f",
+  "SCAN_LINK": "https://etherscan.io/address/0x5231328eb6458541cc47909c71e9a84f150c8e9f",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "AICryptoPunk",
+  "SYMBOL": "AICP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aicryptopunk",
+  "SHOW_BACKGROUND": true
+}
